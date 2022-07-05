@@ -90,31 +90,38 @@
   }
   
   .section-1-heading {
-    font-size: 20rem;
+    font-size: 15rem;
     text-transform: uppercase;
-    letter-spacing: 6rem;
+    letter-spacing: 4rem;
     color:$color-red;
     -webkit-text-stroke: 1px $color-dark;
     text-shadow: 1px $color-dark;
+   
   
     @include response(xl) {
-      font-size: 25rem;
+      font-size: 15rem;
+      padding-left: 5rem;
+      
     }
   
     @include response(lg) {
-      font-size: 20rem;
+      font-size: 15rem;
+      padding-left: 5rem;
     }
   
     @include response(md) {
-      font-size: 15rem;
+      font-size: 10rem;
+      padding-left: 3rem;
     }
   
     @include response(sm) {
       font-size: 10rem;
+      padding-left: 3rem;
     }
   
     @include response(xs) {
       font-size: 7rem;
+      padding-left: 1rem;
     }
   
   

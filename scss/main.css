@@ -271,9 +271,9 @@ html {
 }
 
 .section-1-heading {
-  font-size: 20rem;
+  font-size: 15rem;
   text-transform: uppercase;
-  letter-spacing: 6rem;
+  letter-spacing: 4rem;
   color: #d64161;
   -webkit-text-stroke: 1px #333;
   text-shadow: 1px #333;
@@ -281,31 +281,36 @@ html {
 
 @media (max-width: 1500px) {
   .section-1-heading {
-    font-size: 25rem;
+    font-size: 15rem;
+    padding-left: 5rem;
   }
 }
 
 @media (max-width: 1200px) {
   .section-1-heading {
-    font-size: 20rem;
+    font-size: 15rem;
+    padding-left: 5rem;
   }
 }
 
 @media (max-width: 900px) {
   .section-1-heading {
-    font-size: 15rem;
+    font-size: 10rem;
+    padding-left: 3rem;
   }
 }
 
 @media (max-width: 660px) {
   .section-1-heading {
     font-size: 10rem;
+    padding-left: 3rem;
   }
 }
 
 @media (max-width: 500px) {
   .section-1-heading {
     font-size: 7rem;
+    padding-left: 1rem;
   }
 }
 
