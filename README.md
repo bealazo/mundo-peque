@@ -1,7 +1,7 @@
 
 # Sitio web niños
 
-Página web para tratar temas relacionados con los más pequeños de la casa.
+Sitio web para tratar temas relacionados con los más pequeños de la casa, cuenta con un menú para la navegación, una sección de juguetes populares, otra de consejos diarios y una galería de imágenes.
 ## Demo
 
 Para acceder a la página: https://bealazo.github.io/mundo-peque/
